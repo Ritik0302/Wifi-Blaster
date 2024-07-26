@@ -21,6 +21,9 @@ python3 wifi_blaster.py
 ```
 WiFi Blaster is a user-friendly hacking tool designed for efficiency, enabling quick testing and demonstration of Wi-Fi security vulnerabilities. Its intuitive interface saves time, ensuring seamless operation and effective results. Ideal for both beginners and professionals, it streamlines the process of identifying network weaknesses. Always use responsibly and legally.
 
+IMPORTANT NOTE
+Run this on root user only....
+
 ## Required hardware
 ```sh
 You need Wifi Adapter to use this tool which supports monitor mode and packet injection
