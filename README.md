@@ -1,4 +1,6 @@
 # WiFi-Blaster
+![Wifi_Blaster Landing Page](https://github.com/Ritik0302/Wifi-Blaster/blob/main/Wifi_blaster.jpg?raw=true)
+
 
 **WiFi-Blaster** is a tool designed for educational purposes. This tool is created to be user-friendly and demonstrates the use of Python dictionaries along with essential modules for WiFi network manipulation.
 
